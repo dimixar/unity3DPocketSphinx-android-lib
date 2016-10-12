@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="unity3d">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unityPocketSphinx/libs/unity3d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pocketsphinx-android-5prealpha-nolib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unityPocketSphinx/libs/pocketsphinx-android-5prealpha-nolib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
