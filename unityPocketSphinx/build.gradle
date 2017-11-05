@@ -23,4 +23,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:22.0.0'
     provided files('libs/unity3d.jar')
     compile files('libs/pocketsphinx-android-5prealpha-nolib.jar')
+    testCompile 'junit:junit:4.12'
 }

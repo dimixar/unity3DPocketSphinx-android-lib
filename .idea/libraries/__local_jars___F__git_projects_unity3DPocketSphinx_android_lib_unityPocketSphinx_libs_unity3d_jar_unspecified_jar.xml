@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="unity3d">
+  <library name="__local_jars__:F.\git-projects\unity3DPocketSphinx-android-lib\unityPocketSphinx\libs\unity3d.jar:unspecified@jar">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/unityPocketSphinx/libs/unity3d.jar!/" />
     </CLASSES>
